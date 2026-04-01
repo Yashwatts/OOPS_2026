@@ -36,6 +36,7 @@ This repository is designed to provide a clear, concise, and visually appealing 
 - **17_Static_Keyword.cpp**: C++ code and notes on static variables, static objects, and their behavior.
 - **18_Diamond_Problem.md**: Explanation and code for the diamond problem in multiple inheritance and its solution with virtual inheritance.
 - **19_Hot_Topics.md**: Advanced OOP topics: object slicing, virtual destructors, VTABLE/VPTR, friend functions, and interview tips.
+- **20_OOPs_MCQ.md**: Practice MCQs covering important OOP concepts, constructors/destructors, polymorphism, inheritance, and abstraction.
 
 ## Who Is This For?
 - **Beginners starting with OOPs**
